@@ -30,7 +30,8 @@ n=int(input())
 ```
 
 ## Output:
-![Screenshot 2024-04-07 212601](https://github.com/MANIKUMARDK/Circulate-the-values-of-N-variables/assets/147215581/6223282f-bb4e-41f2-98a3-58058e32f263)
+![Screenshot 2024-05-09 134238](https://github.com/MANIKUMARDK/Circulate-the-values-of-N-variables/assets/147215581/8be7e18b-78d9-4eb1-a668-d81448948939)
+
 
 
 ## Result:
